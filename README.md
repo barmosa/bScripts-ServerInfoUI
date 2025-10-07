@@ -1,9 +1,19 @@
-מערכת חמודה וחינמית שהכנתי עבורכם.<br>
-מציג את העבודה של השחקן<br>
-מציג גם את ה id של השחקן<br>
-מציג playtime כמה זמן השחקן מחובר לשרת ברציף<br>
-כמות של השחקים בשרת שלכם<br>
-כמות שחקנים בלייב שיש בשרת<br>
+✨ Free & Lightweight Server Info UI ✨
+
+This system is a simple yet powerful addition to your server.
+It provides essential player and server details in a clean and modern interface:
+
+🎭 Displays the player’s current job/role
+
+🆔 Shows the player’s unique ID
+
+⏱ Tracks PlayTime – how long the player has been connected
+
+👥 Displays the maximum player slots on your server
+
+🌐 Shows the live player count currently online
+
+Perfect for any roleplay or community server looking for a professional touch — and it’s completely free.>
 
 
 <img width="442" height="90" alt="image" src="https://github.com/user-attachments/assets/16680ad1-62d2-48c0-9ec0-5694cde7a4cf" />
