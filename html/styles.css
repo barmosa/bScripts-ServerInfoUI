@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@400;700;800&display=swap');
+
+:root {
+    --server-name-color: #ff3300;
+    --label-color: #7ba7ff;
+}
+
+.logo-container {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    font-family: 'Exo', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.bScripts {
+    font-size: 24px;
+    font-weight: 800;
+    color: #ff3300;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    letter-spacing: 0.5px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+#hud-servername {
+    color: var(--server-name-color);
+}
+
+.vip-info {
+    font-size: 14px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    font-weight: 700;
+    margin-top: -1px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.id-label {
+    color: var(--label-color);
+    margin-right: 4px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.id {
+    color: #ffffff;
+    margin-right: 8px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.vip {
+    color: var(--label-color);
+    margin-right: 4px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.elite {
+    color: #ffffff;
+    margin-right: 8px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.playtime-label {
+    color: var(--label-color);
+    margin-right: 4px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.playtime-counter {
+    color: #ffffff;
+    margin-right: 8px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
